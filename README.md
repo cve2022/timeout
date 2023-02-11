@@ -4,7 +4,7 @@ Timeout routine for bare metal cooperative embedded systems
 Description
 -------------------
 
-The source code in this repository implementes a timeout function for bare metal cooperative embedded systems. The main purpose of the repository is presenting two ways of determining if the timeout has been reached, a dumber and complicated one and a smarter one that uses the property of binary numbers and their arithmetics.
+The source code in this repository implementes a timeout function for bare metal cooperative embedded systems. The main purpose of the repository is presenting two ways of determining if the timeout has been reached, a more complicated one and a simpler/leaner one that uses the property of binary numbers and two's complement arithmetics.
 
 Contents
 -------------------
